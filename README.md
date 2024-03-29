@@ -6,16 +6,20 @@ The following data analisis is part of a Kaggle's dataset that conducts an analy
 
 1. Age and gender distribution: How are the responses distributed in terms of age and gender? Are there any significant differences in the distribution?
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/9d90d643-afa9-44f5-9af9-4885afd13fa0)
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/5c95633c-4e78-4ed9-8a2f-2a6ef5284713)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/cdc993c9-d0b1-4f3d-bec6-6c430110b4e4)
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/48fe417a-0c0f-4bf7-9119-e526b8918a73)
 
 2. Most common occupations: What are the most common occupations among the respondents? Is there any correlation between occupation and reported mental health issues?
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/044d9ba0-83bf-4bb6-a054-cac3c1412de3)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/ebb2b371-786f-43a2-a45a-64797819284b)
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/3958a5a2-99f2-40f5-b920-2b7aa8c52cef)
 
 3. History of mental health: How often do respondents report a history of mental health issues? Is there any specific trend in these data?
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/7afbd1a5-1b5a-4152-8175-6b3081fc4d5b)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/c465229a-715b-4afc-b9b9-c2d08bd287ab)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/fba4c832-2733-40e9-8836-eb124237cf08)
 
 4. Work interest and coping struggles: How does work interest relate to struggles in coping with the current situation? Is there a correlation between these two variables?
 
