@@ -1,9 +1,8 @@
 # SQL_proyect_1_Azure_Synapse
 
-![image](https://github.com/ELopez2657/SQL_proyect_3_Data_Cleaning_HR/assets/146747798/4f71d7ea-5554-4587-b6ac-ced63d1f52c2)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/acd56b5e-e7d6-4bb9-b283-93fd7030e5d1)
 
-
-The dataset for this project contains information about the payroll of a company's employees. The goal is to clean and prepare the data for analysis and then answer the following questions:
+The following data analisis is part of a Kaggle's dataset that conducts an analysis on mental health and aims to provide answers to the following questions: 
 
 1. Age and gender distribution: How are the responses distributed in terms of age and gender? Are there any significant differences in the distribution?
 
