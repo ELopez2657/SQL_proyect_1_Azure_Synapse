@@ -128,6 +128,3 @@ SELECT
 From mental_health_ext_tab
 GROUP by [Work_Interest], [Mood_Swings], [Social_Weakness] 
 ORDER by Total DESC;
-
--- https://www.kaggle.com/datasets/shashwatwork/depression-and-mental-health-data-analysis/data
-
