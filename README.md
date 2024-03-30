@@ -19,19 +19,35 @@ The following data analisis is part of a Kaggle's dataset that conducts an analy
 3. History of mental health: How often do respondents report a history of mental health issues? Is there any specific trend in these data?
 
 ![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/c465229a-715b-4afc-b9b9-c2d08bd287ab)
+
 ![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/fba4c832-2733-40e9-8836-eb124237cf08)
 
 4. Work interest and coping struggles: How does work interest relate to struggles in coping with the current situation? Is there a correlation between these two variables?
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/6179fd73-17e7-4906-827f-a3d1b51baab9)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/16c5f005-36d3-4ea7-bd6a-e7bba938ba2c)
 
-5. Weight changes and quarantine frustrations: How many people report weight changes during quarantine and what level of frustration do they experience during this period?
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/162d52d4-6151-43e1-b8cf-51b40ab9dca9)
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/d5af7fd4-21c5-4e89-bbf4-02de6336f0f2)
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/b72ad69c-0748-4943-a32f-9e165772afd3)
+5. Professions that present more problems with coping struggles.
 
-6. Mood swings and social weaknesses: How do mood swings correlate with social weaknesses reported by respondents?
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/f5e119da-5f08-4609-acfc-dc8f11935978)
 
-![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/86ac444f-7687-4628-beca-4e7467e98a6c)
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/cfe8c6b4-8499-4f80-be30-9a4909d8ca12)
+
+6. Weight changes and quarantine frustrations: How many people report weight changes and its relation with quarantine frustrations ? 
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/2412ee90-13da-4586-b777-21578771c8f7)
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/908e9cc2-0d1f-45de-aba5-e053964b09f7)
+
+7. How many people experienced mood swings and how it relates to weight gain
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/834be5c9-2ee0-4512-9328-91aaac71f0f2)
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/508aab8a-ae0e-45fc-ad07-d41d958d5353)
+
+8. Mood swings and social weaknesses: How do mood swings correlate with social weaknesses reported by respondents?
+
+
 
 
