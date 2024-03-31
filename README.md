@@ -46,7 +46,12 @@ The following data analisis is part of a Kaggle's dataset that conducts an analy
 
 ![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/508aab8a-ae0e-45fc-ad07-d41d958d5353)
 
-8. Mood swings and social weaknesses: How do mood swings correlate with social weaknesses reported by respondents?
+8. Relationships Social Weakness and daydays without going out
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/443a3fc1-9570-48f8-aa8c-01f2f9a7cf2a)
+
+![image](https://github.com/ELopez2657/SQL_proyect_1_Azure_Synapse/assets/146747798/7dd598b9-7e3b-4ff0-adda-aeb10d1f7549)
+
 
 
 
